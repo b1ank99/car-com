@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720147157 source:c:\users\rog\documents\c\algo project\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<sstream>
+
